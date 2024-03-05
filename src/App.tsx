@@ -4,7 +4,7 @@ import Todo from "./components/Todo";
 function App() {
   return (
     <Container fixed>
-      <div className="container">
+      <div>
         <Todo />
       </div>
     </Container>
